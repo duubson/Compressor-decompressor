@@ -1,5 +1,7 @@
 # Compressor and decompressor
 The project involves implementing a simple compressor and decompressor for text files using the Huffman algorithm and a priority queue based on a heap. The Huffman algorithm is used for efficient text encoding, and the priority queue on a heap is utilized to build the Huffman encoding tree. This solution allows for compressing text files, saving disk space, and later decompressing them. Compressor operates on files containing ASCII characters. The project includes unit tests.
+
+The project was carried out  as part of the "Data Structures and Alghoritms" course.
 ## Program invocation
 
 The program is invoked using the following command:
